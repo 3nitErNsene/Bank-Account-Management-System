@@ -1,0 +1,4 @@
+staffId      loginName      name      password      lastLogin      role
+as1      regenehung      Regene Hung      2049ded43a6e8004df7f67f07439a2608f14b49f      09-08-2018 23:30:47      admin
+as2      kenlee      Ken Lee      2049ded43a6e8004df7f67f07439a2608f14b49f      09-08-2018 22:59:14      staff
+as3      null      iamabc      2049ded43a6e8004df7f67f07439a2608f14b49f      09-08-2018 17:32:44      staff

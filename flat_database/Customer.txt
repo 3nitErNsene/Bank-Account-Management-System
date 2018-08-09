@@ -1,0 +1,6 @@
+hkid      accountNo      loginName      password      gender      address      lastname      firstname      dob      phone      email
+A774875      555001198232      frankie      8a143b4d76f2689e1143c702970641e72db5db05      Male      FLAT C, 24 FLOOR, TOWER 2 SORRENTO NO.1 AUSTIN ROAD WEST      Chan      Tai Ming      15-08-1992      68457852      frankiechan@email.hk
+C521445      555001132898      Mandy      58a9460bd40a0bef751481b72c42f46820485ff5      Female      FLAT F, 21 FLOOR, TOWER 1 The Beaumount No, 8 Shek Kok Rd, Tseung Kwan O      Wong      Siu Man      30-08-1992      62145214      mandywong@email.hk
+B734629      555001156325      Jason      c748cf5c9aab30d434b7d56bf367c38250b9ac94      Male      FLAT F, 22 FLOOR, TOWER 7 FlowersWorld NO.19 Banana ROAD South      Chow      Wing Ling      11-01-1993      87584589      jasonchow@email.hk
+A123456      555001134726      elaine      8205bbb01e39bbd1e5e81ef162f6b5c97b00e957      Female      FLAT P, 2 FLOOR, TOWER 9 HealthHouse NO.11 Apple ROAD, Lam Tim      Elaine      Cheung      01-05-1992      98568596      qq@qq.com.tw
+C789987      555001129842      tintin      c7c4fa6efe146c103f047133a6eef52af94419b0      Female      Flat C, 3243 room ABC Town, North Point      Tin Tin      Wong      12-03-2000      89562589      tin2@yahoo.com
